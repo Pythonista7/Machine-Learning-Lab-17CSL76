@@ -1,0 +1,6 @@
+Outlook,Temperature,Humidity,Wind,Answer
+sunny,hot,high,weak,no
+sunny,hot,high,strong,no
+overcast,hot,high,weak,yes
+rain,mild,high,weak,yes
+sunny,mild,normal,strong,yes
